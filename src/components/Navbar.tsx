@@ -10,7 +10,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
         {/* Logo */}
         <div className="flex items-center gap-2">
-          <span className="p-2 bg-gradient-to-tr from-purple-600 to-pink-500 rounded-xl text-xs font-black">
+          <span className="p-2 bg-linear-to-tr from-purple-600 to-pink-500 rounded-xl text-xs font-black">
             DS
           </span>
           <span className="text-xl font-bold text-white">Dev Stack</span>
