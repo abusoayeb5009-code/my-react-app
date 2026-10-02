@@ -1,5 +1,5 @@
 import { FaStar } from 'react-icons/fa';
-import { Technology } from '../types';
+import type { Technology } from '../types';
 
 interface TechCardProps {
   tech: Technology;
