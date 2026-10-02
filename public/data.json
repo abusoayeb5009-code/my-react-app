@@ -178,25 +178,5 @@
     "difficulty": "Intermediate",
     "rating": 4.9,
     "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-  },
-  {
-    "id": "git-09",
-    "name": "Git",
-    "description": "Distributed version control system for tracking changes.",
-    "badge": "DevOps",
-    "category": "Tools",
-    "difficulty": "Beginner",
-    "rating": 4.9,
-    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-  },
-  {
-    "id": "docker-10",
-    "name": "Docker",
-    "description": "Accelerate how you build, share, and run applications.",
-    "badge": "DevOps",
-    "category": "Tools",
-    "difficulty": "Advanced",
-    "rating": 4.7,
-    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
   }
 ]
