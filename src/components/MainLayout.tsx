@@ -1,4 +1,4 @@
-import { Technology } from '../types';
+import type { Technology } from '../types';
 import TechList from './TechList';
 import Sidebar from './Sidebar';
 
