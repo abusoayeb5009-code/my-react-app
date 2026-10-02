@@ -1,0 +1,144 @@
+[
+  {
+    "id": "react",
+    "name": "React",
+    "category": "Frontend",
+    "description": "A declarative, component-based JavaScript library for building user interfaces.",
+    "icon": "https://icon.icepanel.io/Technology/svg/React.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "vue",
+    "name": "Vue.js",
+    "category": "Frontend",
+    "description": "An approachable, performant and versatile framework for building web UIs.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Versatile"
+  },
+  {
+    "id": "svelte",
+    "name": "Svelte",
+    "category": "Frontend",
+    "description": "Cybernetically enhanced web apps with less code and no virtual DOM.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Svelte.svg",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Fast"
+  },
+  {
+    "id": "node",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "An open-source, cross-platform JavaScript runtime environment.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Node.js.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Standard"
+  }
+]
+[
+  {
+    "id": "react-01",
+    "name": "React",
+    "description": "The library for web and native user interfaces.",
+    "badge": "Popular",
+    "category": "Frontend",
+    "difficulty": "Intermediate",
+    "rating": 4.9,
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  },
+  {
+    "id": "nextjs-02",
+    "name": "Next.js",
+    "description": "The React Framework for the Web with SSR & SSG support.",
+    "badge": "Fullstack",
+    "category": "Frontend",
+    "difficulty": "Advanced",
+    "rating": 4.8,
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+  },
+  {
+    "id": "tailwindcss-03",
+    "name": "Tailwind CSS",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "badge": "Styling",
+    "category": "Frontend",
+    "difficulty": "Beginner",
+    "rating": 4.9,
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+  },
+  {
+    "id": "nodejs-04",
+    "name": "Node.js",
+    "description": "JavaScript runtime built on Chrome's V8 engine.",
+    "badge": "Backend",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "rating": 4.7,
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+  },
+  {
+    "id": "express-05",
+    "name": "Express.js",
+    "description": "Fast, unopinionated, minimalist web framework for Node.js.",
+    "badge": "Server",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "rating": 4.6,
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+  },
+  {
+    "id": "mongodb-06",
+    "name": "MongoDB",
+    "description": "Document-based distributed database designed for modern apps.",
+    "badge": "Database",
+    "category": "Database",
+    "difficulty": "Intermediate",
+    "rating": 4.5,
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+  },
+  {
+    "id": "postgresql-07",
+    "name": "PostgreSQL",
+    "description": "The World's Most Advanced Open Source Relational Database.",
+    "badge": "SQL",
+    "category": "Database",
+    "difficulty": "Advanced",
+    "rating": 4.8,
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+  },
+  {
+    "id": "typescript-08",
+    "name": "TypeScript",
+    "description": "Strongly typed programming language that builds on JavaScript.",
+    "badge": "Language",
+    "category": "Language",
+    "difficulty": "Intermediate",
+    "rating": 4.9,
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  },
+  {
+    "id": "git-09",
+    "name": "Git",
+    "description": "Distributed version control system for tracking changes.",
+    "badge": "DevOps",
+    "category": "Tools",
+    "difficulty": "Beginner",
+    "rating": 4.9,
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+  },
+  {
+    "id": "docker-10",
+    "name": "Docker",
+    "description": "Accelerate how you build, share, and run applications.",
+    "badge": "DevOps",
+    "category": "Tools",
+    "difficulty": "Advanced",
+    "rating": 4.7,
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+  }
+]
