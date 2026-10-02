@@ -1,28 +1,4 @@
-export default function Navbar() {
-  return (
-    <nav className="flex justify-between items-center px-10 py-4 bg-white border-b border-gray-100">
-      <div className="flex items-center gap-2">
-        <span className="bg-purple-900 text-white font-bold text-xs px-2 py-1 rounded">DS</span>
-        <span className="text-xl font-bold text-gray-900">Dev Stack</span>
-      </div>
 
-      <div className="flex gap-8 text-sm text-gray-600 font-medium">
-        <a href="#" className="hover:text-purple-600">Home</a>
-        <a href="#" className="hover:text-purple-600">Technologies</a>
-        <a href="#" className="hover:text-purple-600">Projects</a>
-        <a href="#" className="hover:text-purple-600">About</a>
-        <a href="#" className="hover:text-purple-600">Contact</a>
-      </div>
-
-      <div className="flex items-center gap-4 text-sm font-medium">
-        <button className="text-gray-700 hover:text-purple-600">Sign in</button>
-        <button className="px-5 py-2 bg-gradient-to-r from-pink-600 to-purple-800 text-white rounded-full hover:opacity-90">
-          Sign Up
-        </button>
-      </div>
-    </nav>
-  );
-}
 import { useState } from 'react';
 import { FiMenu, FiX } from 'react-icons/fi';
 
